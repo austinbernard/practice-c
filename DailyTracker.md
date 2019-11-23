@@ -5,6 +5,15 @@
 
 **Dartmouth IMT-C.01**
 
+#### Lesson 1.1 Objectives
+	-[ ] create C-programs that utilize one or more for loops to repeat one or more printing instructions a defined number of times
+	-[ ] explain C-code by adding comments
+	-[ ] use comments in three different ways:
+		-[ ] at the end of (but on the same line as) an instruction
+       		- [ ]on one line by itself
+       		- [ ]over multiple lines
+	-[ ]recognize and label the preprocessor directives, the main program, the variable declaration section and the statement section of the main function of a simple C-program
+
 ### [40 minute sprint Dartmouth Edx - 11/18/19]
 <<<<<<< HEAD
 -Print characters to the screen
@@ -14,61 +23,60 @@
 =======
 
 ### [40 minute sprint Dartmouth Edx - 11/18/19]
-
--Print characters to the screen
--Know how to start a new line
--Syntax Errors
--Print quotation mark and escape special characters ( ‘\’ )
+- Print characters to the screen
+- Know how to start a new line
+- Syntax Errors
+- Print quotation mark and escape special characters ( ‘\’ )
 
 >>>>>>> 6077896a7be3cbd2c90208358aee976833f38c5f
 ### [45 minute sprint Dartmouth Edx - 11/19/19]
--Repeat an instruction with a for loop
--Repeat multiple instructions with for loop
--Repeat a block of instructions with a for loop
--Common Looping Errors
--Fixing Bracketed Errors
+- Repeat an instruction with a for loop
+- Repeat multiple instructions with for loop
+- Repeat a block of instructions with a for loop
+- Common Looping Errors
+- Fixing Bracketed Errors
 
 ### [140 minute sprint Dartmouth Edx - 11/19/19]
--Making comments in C ( // )
--Comments after end of instruction
--Comments inside comments to debug by disabling parts ( /*   */ )
--You work in the C-programming censorship office and your job is to ensure that programs written by developers comply with certain rules. The two censorship rules are as follows:
+- Making comments in C ( // )
+- Comments after end of instruction
+- Comments inside comments to debug by disabling parts 
+- You work in the C-programming censorship office and your job is to ensure that programs written by developers comply with certain rules. The two censorship rules are as follows:
 	-Programs cannot use for-loops with more than 10 repetitions.
 	-Programs are not allowed to say 'goodbye!'.
--Single / multiple line commits
--Preprocessor directive 
--Main function
--Variable declaration
--Executable statements
--Return statement
--Use format specifier %d to print integer value within printf (function)
--Perform simple integer arithmetic with format specifier
--Create variable (declaration) and initialize (assignment, definition, initialization) variables in the form of integers in one instruction
--Syntax rules for declaring/naming a variable(s)
--Printed a multiplication table in C & Python programming language
--Reading single integers using scanf() statement
--Reading multiple integers using scanf() statement
+- Single / multiple line commits
+- Preprocessor directive 
+- Main function
+- Variable declaration
+- Executable statements
+- Return statement
+- Use format specifier %d to print integer value within printf (function)
+- Perform simple integer arithmetic with format specifier
+- Create variable (declaration) and initialize (assignment, definition, initialization) variables in the form of integers in one instruction
+- Syntax rules for declaring/naming a variable(s)
+- Printed a multiplication table in C & Python programming language
+- Reading single integers using scanf() statement
+- Reading multiple integers using scanf() statement
 
 ### [ 30 minute sprint Dartmouth Edx - 11/20/19 ]
 -Using scanf() inside a loop to read multiple user inputs
 
 ### [ 45 minute sprint Dartmouth Edx - 11/20/19 ]
--Process user integer input to determine looping behavior of a program *WALL* -I will try again in the morning
+- Process user integer input to determine looping behavior of a program *WALL* -I will try again in the morning
 
 ### [ 45 minute sprint Dartmouth Edx - 11/21/19 ]
--Worked on problem set (:
+- Worked on problem set (:
   
 ### [ 40 minute sprint Dartmouth Edx - 11/21/19 ]
--Finished problem set, debugged problem and bypassed WALL onto next adventure!!
--Use the format specifier %d in printf statements to print integers and results of integer operations
--Explain the concept of a variable
--Distinguish between declaring a variable and assigning a value to a variable
--Declare a variable of type integer
--Assign a value to a variable of type integer
--Re-assign a value to an integer-type variable
--Update the value of an integer-type variable based on the value of the variable
--Read one or more integer inputs from the user using scanf
--Process user integer input to determine looping behavior of a program
+- Finished problem set, debugged problem and bypassed WALL onto next adventure!!
+- Use the format specifier %d in printf statements to print integers and results of integer operations
+- Explain the concept of a variable
+- Distinguish between declaring a variable and assigning a value to a variable
+- Declare a variable of type integer
+- Assign a value to a variable of type integer
+- Re-assign a value to an integer-type variable
+- Update the value of an integer-type variable based on the value of the variable
+- Read one or more integer inputs from the user using scanf
+- Process user integer input to determine looping behavior of a program
 
 #### Lesson 1.3 Objectives
 	[] distinguish between and give examples of integer, double and character data
