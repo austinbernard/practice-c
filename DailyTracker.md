@@ -6,12 +6,14 @@
 **Dartmouth IMT-C.01**
 
 ### Lesson 1.1 Objectives
+
+	[] modify the 'hello world' program to create a C-program that prints text and special characters to the screen
 	[] create C-programs that utilize one or more for loops to repeat one or more printing instructions a defined number of times
 	[] explain C-code by adding comments
 	[] use comments in three different ways:
-		[] at the end of (but on the same line as) an instruction
-       	[]on one line by itself
-       	[]over multiple lines
+        	[] at the end of (but on the same line as) an instruction
+        	[] on one line by itself
+        	[] over multiple lines
 	[]recognize and label the preprocessor directives, the main program, the variable declaration section and the statement section of the main function of a simple C-program
 
 #### [40 minute sprint Dartmouth Edx - 11/18/19]
@@ -28,16 +30,16 @@
 - Fixing Bracketed Errors
 
 ### Lesson 1.2 Objectives
-    [] use the format specifier %d in printf statements to print integers and results of integer operations
-    [] explain the concept of a variable
-    [] distinguish between declaring a variable and assigning a value to a variable
-    [] declare a variable of type integer
-    [] assign a value to a variable of type integer
-    [] re-assign a value to an integer-type variable
-    [] update the value of an integer-type variable based on its previous value
-    [] use variables inside loops to modify an instruction based on the value of the variable
-    [] read one or more integer inputs from the user using scanf
-    [] process user integer input to determine looping behavior of a program
+	[] use the format specifier %d in printf statements to print integers and results of integer operations
+	[] explain the concept of a variable
+	[] distinguish between declaring a variable and assigning a value to a variable
+	[] declare a variable of type integer
+ 	[] assign a value to a variable of type integer
+	[] re-assign a value to an integer-type variable
+	[] update the value of an integer-type variable based on its previous value
+	[] use variables inside loops to modify an instruction based on the value of the variable
+	[] read one or more integer inputs from the user using scanf()
+	[] process user integer input to determine looping behavior of a program
 
 
 #### [140 minute sprint Dartmouth Edx - 11/19/19]
