@@ -1,20 +1,20 @@
 ﻿# Learning C ![C](https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png)
 
 
-## To Fight Imposter Syndrome - My Daily Sprint Trackers
+## To Fight Imposter Syndrome - My Daily Sprint Tracker
 
 **Dartmouth IMT-C.01**
 
-#### Lesson 1.1 Objectives
+### Lesson 1.1 Objectives
 	[] create C-programs that utilize one or more for loops to repeat one or more printing instructions a defined number of times
 	[] explain C-code by adding comments
 	[] use comments in three different ways:
-	[] at the end of (but on the same line as) an instruction
-       	[]on one line by itself
-       	[]over multiple lines
+		[] at the end of (but on the same line as) an instruction
+       		[]on one line by itself
+       		[]over multiple lines
 	[]recognize and label the preprocessor directives, the main program, the variable declaration section and the statement section of the main function of a simple C-program
 
-### [40 minute sprint Dartmouth Edx - 11/18/19]
+#### [40 minute sprint Dartmouth Edx - 11/18/19]
 
 -Print characters to the screen
 -Know how to start a new line
@@ -22,20 +22,20 @@
 -Print quotation mark and escape special characters
 
 
-### [40 minute sprint Dartmouth Edx - 11/18/19]
+#### [40 minute sprint Dartmouth Edx - 11/18/19]
 - Print characters to the screen
 - Know how to start a new line
 - Syntax Errors
 - Print quotation mark and escape special characters ( ‘\’ )
 
-### [45 minute sprint Dartmouth Edx - 11/19/19]
+#### [45 minute sprint Dartmouth Edx - 11/19/19]
 - Repeat an instruction with a for loop
 - Repeat multiple instructions with for loop
 - Repeat a block of instructions with a for loop
 - Common Looping Errors
 - Fixing Bracketed Errors
 
-### [140 minute sprint Dartmouth Edx - 11/19/19]
+#### [140 minute sprint Dartmouth Edx - 11/19/19]
 - Making comments in C ( // )
 - Comments after end of instruction
 - Comments inside comments to debug by disabling parts 
@@ -57,16 +57,16 @@
 - Reading single integers using scanf() statement
 - Reading multiple integers using scanf() statement
 
-### [ 30 minute sprint Dartmouth Edx - 11/20/19 ]
+#### [ 30 minute sprint Dartmouth Edx - 11/20/19 ]
 - Using scanf() inside a loop to read multiple user inputs
 
-### [ 45 minute sprint Dartmouth Edx - 11/20/19 ]
+#### [ 45 minute sprint Dartmouth Edx - 11/20/19 ]
 - Process user integer input to determine looping behavior of a program *WALL* -I will try again in the morning
 
-### [ 45 minute sprint Dartmouth Edx - 11/21/19 ]
+#### [ 45 minute sprint Dartmouth Edx - 11/21/19 ]
 - Worked on problem set (:
   
-### [ 40 minute sprint Dartmouth Edx - 11/21/19 ]
+#### [ 40 minute sprint Dartmouth Edx - 11/21/19 ]
 - Finished problem set, debugged problem and bypassed WALL onto next adventure!!
 - Use the format specifier %d in printf statements to print integers and results of integer operations
 - Explain the concept of a variable
@@ -78,7 +78,7 @@
 - Read one or more integer inputs from the user using scanf
 - Process user integer input to determine looping behavior of a program
 
-#### Lesson 1.3 Objectives
+### Lesson 1.3 Objectives
 	[] distinguish between and give examples of integer, double and character data
 	[] declare a variable of type char
 	[] declare a variable of type double
@@ -92,7 +92,7 @@
 	[] use casting to convert between integer and double data types
 	[] create C-programs that perform tasks involving user input, integer and floating point arithmetic operations and output to the screen
 
-### [ 90 minute sprint Dartmouth Edx - 11/22/19 ]
+#### [ 90 minute sprint Dartmouth Edx - 11/22/19 ]
 - Declare, assign, and print characters with %c format specifier
 - Prompt user to know what to input correctly
 - Declare, assign, and print decimal numbers with type double (%lf)
