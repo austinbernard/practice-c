@@ -6,21 +6,21 @@
 **Dartmouth IMT-C.01**
 
 #### Lesson 1.1 Objectives
-	-[ ] create C-programs that utilize one or more for loops to repeat one or more printing instructions a defined number of times
-	-[ ] explain C-code by adding comments
-	-[ ] use comments in three different ways:
-		-[ ] at the end of (but on the same line as) an instruction
-       		- [ ]on one line by itself
-       		- [ ]over multiple lines
-	-[ ]recognize and label the preprocessor directives, the main program, the variable declaration section and the statement section of the main function of a simple C-program
+	[] create C-programs that utilize one or more for loops to repeat one or more printing instructions a defined number of times
+	[] explain C-code by adding comments
+	[] use comments in three different ways:
+	[] at the end of (but on the same line as) an instruction
+       	[]on one line by itself
+       	[]over multiple lines
+	[]recognize and label the preprocessor directives, the main program, the variable declaration section and the statement section of the main function of a simple C-program
 
 ### [40 minute sprint Dartmouth Edx - 11/18/19]
-<<<<<<< HEAD
+
 -Print characters to the screen
 -Know how to start a new line
 -Syntax Errors
--Print quotation mark and escape special characters ( ‘\’ )
-=======
+-Print quotation mark and escape special characters
+
 
 ### [40 minute sprint Dartmouth Edx - 11/18/19]
 - Print characters to the screen
@@ -28,7 +28,6 @@
 - Syntax Errors
 - Print quotation mark and escape special characters ( ‘\’ )
 
->>>>>>> 6077896a7be3cbd2c90208358aee976833f38c5f
 ### [45 minute sprint Dartmouth Edx - 11/19/19]
 - Repeat an instruction with a for loop
 - Repeat multiple instructions with for loop
