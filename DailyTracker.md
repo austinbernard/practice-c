@@ -15,14 +15,6 @@
 	[]recognize and label the preprocessor directives, the main program, the variable declaration section and the statement section of the main function of a simple C-program
 
 #### [40 minute sprint Dartmouth Edx - 11/18/19]
-
-- Print characters to the screen
-- Know how to start a new line
-- Syntax Errors
-- Print quotation mark and escape special characters
-
-
-#### [40 minute sprint Dartmouth Edx - 11/18/19]
 - Print characters to the screen
 - Know how to start a new line
 - Syntax Errors
