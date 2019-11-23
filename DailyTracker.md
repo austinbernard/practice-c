@@ -39,9 +39,10 @@
 - Making comments in C ( // )
 - Comments after end of instruction
 - Comments inside comments to debug by disabling parts 
-- You work in the C-programming censorship office and your job is to ensure that programs written by developers comply with certain rules. The two censorship rules are as follows:
-	-Programs cannot use for-loops with more than 10 repetitions.
-	-Programs are not allowed to say 'goodbye!'.
+- You work in the C-programming censorship office and your job is to ensure that programs written by developers comply with certain rules. 
+	The two censorship rules are as follows:
+	- Programs cannot use for-loops with more than 10 repetitions.
+	- Programs are not allowed to say 'goodbye!'.
 - Single / multiple line commits
 - Preprocessor directive 
 - Main function
@@ -57,7 +58,7 @@
 - Reading multiple integers using scanf() statement
 
 ### [ 30 minute sprint Dartmouth Edx - 11/20/19 ]
--Using scanf() inside a loop to read multiple user inputs
+- Using scanf() inside a loop to read multiple user inputs
 
 ### [ 45 minute sprint Dartmouth Edx - 11/20/19 ]
 - Process user integer input to determine looping behavior of a program *WALL* -I will try again in the morning
