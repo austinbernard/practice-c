@@ -27,6 +27,19 @@
 - Common Looping Errors
 - Fixing Bracketed Errors
 
+### Lesson 1.2 Objectives
+    [] use the format specifier %d in printf statements to print integers and results of integer operations
+    [] explain the concept of a variable
+    [] distinguish between declaring a variable and assigning a value to a variable
+    [] declare a variable of type integer
+    [] assign a value to a variable of type integer
+    [] re-assign a value to an integer-type variable
+    [] update the value of an integer-type variable based on its previous value
+    [] use variables inside loops to modify an instruction based on the value of the variable
+    [] read one or more integer inputs from the user using scanf
+    [] process user integer input to determine looping behavior of a program
+
+
 #### [140 minute sprint Dartmouth Edx - 11/19/19]
 - Making comments in C ( // )
 - Comments after end of instruction
