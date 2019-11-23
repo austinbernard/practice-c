@@ -5,17 +5,6 @@
 
 **Dartmouth IMT-C.01**
 
-#### Lesson 1.1 Objective
-<<<<<<< HEAD
--[ ] create C-programs that utilize one or more for loops to repeat one or more printing instructions a defined number of times
--[ ] explain C-code by adding comments
--[ ] use comments in three different ways:
--[ ] at the end of (but on the same line as) an instruction
-       - [ ]on one line by itself
-       - [ ]over multiple lines
--[ ]recognize and label the preprocessor directives, the main program, the variable declaration section and the statement section of the main function of a simple C-program
-=======
-
 ### [40 minute sprint Dartmouth Edx - 11/18/19]
 <<<<<<< HEAD
 -Print characters to the screen
@@ -95,9 +84,9 @@
 	[] use casting to convert between integer and double data types
 	[] create C-programs that perform tasks involving user input, integer and floating point arithmetic operations and output to the screen
 
-[ 90 minute sprint Dartmouth Edx - 11/22/19 ]
--Declare, assign, and print characters with %c format specifier
--Prompt user to know what to input correctly
--Declare, assign, and print decimal numbers with type double (%lf)
--Read decimal numbers from user input with scanf()
--Read ints and doubles with scanf()
+### [ 90 minute sprint Dartmouth Edx - 11/22/19 ]
+- Declare, assign, and print characters with %c format specifier
+- Prompt user to know what to input correctly
+- Declare, assign, and print decimal numbers with type double (%lf)
+- Read decimal numbers from user input with scanf()
+- Read ints and doubles with scanf()
