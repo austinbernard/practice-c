@@ -2,7 +2,7 @@
 
 
 ## To Fight Imposter Syndrome - My Daily Sprint Tracker
-technologies used: Git | GitHub | VsCode | Pen & Paper
+Technologies Used: Git | GitHub | VsCode | Pen & Paper
 
 **Dartmouth IMT-C.01**
 
