@@ -16,10 +16,10 @@
 
 #### [40 minute sprint Dartmouth Edx - 11/18/19]
 
--Print characters to the screen
--Know how to start a new line
--Syntax Errors
--Print quotation mark and escape special characters
+- Print characters to the screen
+- Know how to start a new line
+- Syntax Errors
+- Print quotation mark and escape special characters
 
 
 #### [40 minute sprint Dartmouth Edx - 11/18/19]
