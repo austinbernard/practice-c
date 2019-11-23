@@ -10,8 +10,8 @@
 	[] explain C-code by adding comments
 	[] use comments in three different ways:
 		[] at the end of (but on the same line as) an instruction
-       		[]on one line by itself
-       		[]over multiple lines
+       	[]on one line by itself
+       	[]over multiple lines
 	[]recognize and label the preprocessor directives, the main program, the variable declaration section and the statement section of the main function of a simple C-program
 
 #### [40 minute sprint Dartmouth Edx - 11/18/19]
