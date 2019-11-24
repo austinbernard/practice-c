@@ -114,6 +114,11 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 #### [ 45 minute sprint Dartmouth Edx - 11/24/19 ]
 - Worked on problem set 1.3
 - Differentiating between using format specifiers (%d and %lf)
+- Posed a question in stackoverflow (found the answer in the suggested box)
+- Divide in C
+- Stack: Why does scanf() need “%lf” for doubles, when printf() is okay with just “%f”?
+	- [answer](https://stackoverflow.com/questions/210590/why-does-scanf-need-lf-for-doubles-when-printf-is-okay-with-just-f)
+- 
 
 
 
