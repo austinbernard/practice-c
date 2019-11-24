@@ -106,3 +106,15 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 - Declare, assign, and print decimal numbers with type double (%lf)
 - Read decimal numbers from user input with scanf()
 - Read ints and doubles with scanf()
+
+#### [ 45 minute sprint Compiling Code Implementation - 11/23/19 ]
+- Researched C automation for reading files and writing files in excel
+- Found out that Python was a better solution
+
+#### [ 45 minute sprint Dartmouth Edx - 11/24/19 ]
+- Worked on problem set 1.3
+- Differentiating between using format specifiers (%d and %lf)
+
+
+
+
