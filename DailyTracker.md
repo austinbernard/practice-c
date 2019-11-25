@@ -118,7 +118,12 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 - Divide in C
 - Stack: Why does scanf() need “%lf” for doubles, when printf() is okay with just “%f”?
 	- [answer](https://stackoverflow.com/questions/210590/why-does-scanf-need-lf-for-doubles-when-printf-is-okay-with-just-f)
+
+#### [ 45 minute sprint Dartmouth Edx - 11/24/19 ]
+- Find the remainder in integer division
+- Convert int to doubles
 - 
+
 
 
 
