@@ -133,6 +133,11 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 	- error: conflicting types for ‘expected’
 - Corrected main error by assigning a double value to a variable of type int
 
+#### [ 40 minute sprint - 11/25/19 ]
+- Read unoffical [C documentation](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1124.pdf)
+	- Resources:
+	- [1](https://public.support.unisys.com/framework/publicterms.aspx?returnurl=%2faseries%2fdocs%2fClearPath-MCP-17.0%2fPDF%2f86002278-305.pdf)
+
 
 
 
