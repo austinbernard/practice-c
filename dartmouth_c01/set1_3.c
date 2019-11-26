@@ -1,5 +1,9 @@
-//Problem set 1.3
-//Program must first read an integer indicating the number of grades to be averaged. Next, it will read the grades one by one, all of which are integers as well. Finally, it will calculate and print the average of the grades to two decimal places.
+//Problem set 1.3_1
+
+/* Program will first read an integer indicating the number of grades to be averaged. Next, it will read the grades one by one, all of which are integers as well. Finally, it will calculate and print the average of the grades to two decimal places. */
+
+//input: 4, 10, 8, 16, 9
+//output: 10.75
 
 #include <stdio.h>
 int main(void) {
@@ -14,7 +18,7 @@ int main(void) {
 //update my sum each time by adding the grade to the previous grade(s)
         sumGrade = sumGrade + grade;
     }
-//convert my sum to float so we can divide properly    
+//take the sum and turn or convert it into a decimal to divide properly   
     doubSumGrade = (double) sumGrade;
 //print average to 2 decimal place holders 
     printf("%.2lf", doubSumGrade/num);

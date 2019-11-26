@@ -124,7 +124,15 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 - Convert int to doubles
 
 #### [ 140 minute sprint Dartmouth Edx - 11/25/19 ]
-- 
+- Completed 1.3_1 problem set
+- Convert doubles to integers
+- Completed 1.3_2 problem set
+- Debugged Following Bugs:
+	- error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘expected’
+	- error: ‘percentGrowth’ undeclared (first use in this function)
+	- error: conflicting types for ‘expected’
+- Corrected main error by assigning a double value to a variable of type int
+
 
 
 
