@@ -135,7 +135,25 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 
 #### [ 40 minute sprint - 11/25/19 ]
 - Read unoffical [C documentation](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1124.pdf)
-	- Resources:
+	- Questions:
+		- *What is conditional inclusion?* Purpose of conditional inclusion is to allow the program to behave differently from run to run, depending upon the data it is operating on. Conditional inclusion statements are evaluated at complile time or even before a compilation by a special program called Preprocessor
+		- *What is #include ?* Processing directive 
+		- *What is a processing directive?* A language construct that specifies how a compiler (or other translator) should make means of its input.
+		- *What is a language construst?* A syntactically allowable part of a program that may be formed from one or more lexical tokens in accordance with the rules of the programming language. It is the control structure - what is allowed within the confines of the programming language and what is not.
+		- *What is 'int main(void)'?* It is a function called program startup. It delares no protoype for this function. It shall be defined with a return type of in and no paramenters.
+			- int main(void) { /* ... */ }
+			- int main(int argc, char *argv[]) { /* ... */ }
+			- when these are declared the parameters shall obey the constraints
+			- the value argc shall be nonnegative
+			- if value of argc is greater than zero, the array members argv[0] through argv[argc-1] shall contain pointers to strings which have been given implementation defined values by the host environment prior to #include. 
+			- if the host environment is unable to supply strings with letters in both uppercase and lowercase, the implementation shall ensure that the strings are recieved in lowercase.
+
+
+
+
+
+
+Resources:
 	- [1](https://public.support.unisys.com/framework/publicterms.aspx?returnurl=%2faseries%2fdocs%2fClearPath-MCP-17.0%2fPDF%2f86002278-305.pdf)
 
 
