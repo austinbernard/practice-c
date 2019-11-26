@@ -122,6 +122,8 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 #### [ 45 minute sprint Dartmouth Edx - 11/24/19 ]
 - Find the remainder in integer division
 - Convert int to doubles
+
+#### [ 140 minute sprint Dartmouth Edx - 11/25/19 ]
 - 
 
 
