@@ -10,7 +10,6 @@
 //output: 15.50
 
 
-
 #include <stdio.h>
 int main(void){
     int passenger;
