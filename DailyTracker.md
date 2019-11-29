@@ -147,6 +147,21 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 			- the value argc shall be nonnegative
 			- if value of argc is greater than zero, the array members argv[0] through argv[argc-1] shall contain pointers to strings which have been given implementation defined values by the host environment prior to #include. 
 			- if the host environment is unable to supply strings with letters in both uppercase and lowercase, the implementation shall ensure that the strings are recieved in lowercase.
+- Read pages (1 - 24)
+
+#### [ 0 minute sprint - 11/26/19 ]
+- None
+
+#### [ 45 minute sprint - 11/27/19 ]
+- Completed 1.3_3 problem set
+- Completed 1.3_4 problem set
+- Pushed problem sets to GitHub
+
+#### [ 60 minute sprint - 11/29/19 ]
+- Stating DART.IMT.C.02 - Language Foundations
+- Familiarizing with logical conditions, arrays, sorting algorithms, and search algorithms
+- Using an if statement with a static condition
+- 
 
 
 
@@ -154,7 +169,8 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 
 
 Resources:
-	- [1](https://public.support.unisys.com/framework/publicterms.aspx?returnurl=%2faseries%2fdocs%2fClearPath-MCP-17.0%2fPDF%2f86002278-305.pdf)
+	-[1 - documentation](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1124.pdf) 
+	-[2 - Documentation](https://public.support.unisys.com/framework/publicterms.aspx?returnurl=%2faseries%2fdocs%2fClearPath-MCP-17.0%2fPDF%2f86002278-305.pdf)
 
 
 
