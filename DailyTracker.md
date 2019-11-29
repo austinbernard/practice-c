@@ -157,11 +157,14 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 - Completed 1.3_4 problem set
 - Pushed problem sets to GitHub
 
+#### [ 60 minute sprint - 11/28/19 ]
+- Read documentation
+
 #### [ 60 minute sprint - 11/29/19 ]
 - Stating DART.IMT.C.02 - Language Foundations
 - Familiarizing with logical conditions, arrays, sorting algorithms, and search algorithms
-- Using an if statement with a static condition
-- 
+- If statement with a static condition
+- Else statements with a static condition
 
 
 
