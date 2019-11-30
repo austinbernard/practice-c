@@ -165,6 +165,11 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 - Familiarizing with logical conditions, arrays, sorting algorithms, and search algorithms
 - If statement with a static condition
 - Else statements with a static condition
+- Worked on 2.1_1 problem set
+
+#### [ 60 minute sprint - 11/30/19 ]
+- Finished problem set 2.1_1  
+- Finished problem set 2.1_2
 
 
 
