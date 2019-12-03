@@ -171,8 +171,14 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 - Finished problem set 2.1_1  
 - Finished problem set 2.1_2
 
+#### [ 0 minute sprint - 12/1/19 ]
 
+#### [ 0 minute sprint - 12/2/19 ]
 
+#### [ 90 minute sprint - 12/3/19 ]
+- Read Documentation
+- Finished problem set 2.1_3
+- Worked on problem set 2.1_4
 
 
 
