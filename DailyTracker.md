@@ -152,7 +152,7 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 #### [ 0 minute sprint - 11/26/19 ]
 - None
 
-#### [ 45 minute sprint - 11/27/19 ]
+#### [ 45 minute sprint Dartmouth Edx - 11/27/19 ]
 - Completed 1.3_3 problem set
 - Completed 1.3_4 problem set
 - Pushed problem sets to GitHub
@@ -160,14 +160,14 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 #### [ 60 minute sprint - 11/28/19 ]
 - Read documentation
 
-#### [ 60 minute sprint - 11/29/19 ]
+#### [ 60 minute sprint Dartmouth Edx - 11/29/19 ]
 - Stating DART.IMT.C.02 - Language Foundations
 - Familiarizing with logical conditions, arrays, sorting algorithms, and search algorithms
 - If statement with a static condition
 - Else statements with a static condition
 - Worked on 2.1_1 problem set
 
-#### [ 60 minute sprint - 11/30/19 ]
+#### [ 60 minute sprint Dartmouth Edx- 11/30/19 ]
 - Finished problem set 2.1_1  
 - Finished problem set 2.1_2
 
@@ -175,11 +175,15 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 
 #### [ 0 minute sprint - 12/2/19 ]
 
-#### [ 90 minute sprint - 12/3/19 ]
+#### [ 90 minute sprint Dartmouth Edx- 12/3/19 ]
 - Read Documentation
 - Finished problem set 2.1_3
 - Worked on problem set 2.1_4
 
+#### [ 60 minute sprint - 12/4/19 ]
+- Read Documentation (C structure, Compiler, Language Keywords, Functions, Commenting, #include, return)
+- Finished problem set 2.1_4 - Perhaps look into more work on loops to be more comfortable with implementing them freely
+- 
 
 
 Resources:
