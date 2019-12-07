@@ -191,7 +191,9 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 - Read Ritchie Kernighan C Documentation
 
 #### [ 90 minute sprint - 12/7/19 ]
-- 
+- Read Rirchie Kernighan C Documentation
+- Symbolic Constants, For Statements, While Loops, Variabled and Arithmetic Expression
+- Worked on exercises: how to input text, compile it, load it, run it, and find where output went
 
 
 Resources:
