@@ -183,6 +183,14 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 #### [ 60 minute sprint - 12/4/19 ]
 - Read Documentation (C structure, Compiler, Language Keywords, Functions, Commenting, #include, return)
 - Finished problem set 2.1_4 - Perhaps look into more work on loops to be more comfortable with implementing them freely
+
+#### [ 60 minute sprint - 12/5/19 ]
+- Read Ritchie Kernighan C Documentation
+
+#### [ 60 minute sprint - 12/6/19 ]
+- Read Ritchie Kernighan C Documentation
+
+#### [ 90 minute sprint - 12/7/19 ]
 - 
 
 
