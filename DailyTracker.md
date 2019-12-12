@@ -206,7 +206,7 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 - Wrote 3 programs that counted blanks, tabs, and newlines
 
 #### [ 60 minute sprint - 12/10/19 ]
-- Read Rirchie Kernighan C Documentation 
+- Rirchie Kernighan C Documentation Exercises
 
 #### [ 60 minute sprint - 12/11/19 ]
 - Researched beginner open source contributor projects for C programming via GitHub
@@ -219,6 +219,12 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 - Training programs to act intelligently when given zero-length inputs as it regards to while and for loops
 - Word counting programs
 - IN / OUT define
+
+#### [ 40 minute sprint - 12/12/19 ]
+- || OR
+- && AND
+- Assignment is an expression with a value (from from right to left)
+- 
 
 
 
