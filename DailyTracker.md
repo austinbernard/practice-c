@@ -195,6 +195,14 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 - Symbolic Constants, For Statements, While Loops, Variabled and Arithmetic Expression
 - Worked on exercises: how to input text, compile it, load it, run it, and find where output went
 
+#### [ 0 minute sprint - 12/8/19 ]
+- None
+
+#### [ 30 minute sprint - 12/9/19 ]
+- Read Rirchie Kernighan C Documentation 
+- File copying, increment operator, Getchar, Zero-Length input, Boundary Conditions, Line counting, Character constant, single constants, string constant, 
+- Wrote 3 programs that counted blanks, tabs, and newlines
+-
 
 Resources:
 	-[1 - documentation](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1124.pdf) 
