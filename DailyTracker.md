@@ -212,6 +212,13 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 - Researched beginner open source contributor projects for C programming via GitHub
 - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 	- Vim-fork focused on extensibility and agility.
+	- Still no clue what they are asking - going to read more C Documentation
+
+#### [ 60 minute sprint - 12/12/19 ]
+- Read Rirchie Kernighan C Documentation 
+- Training programs to act intelligently when given zero-length inputs as it regards to while and for loops
+- Word counting programs
+- IN / OUT define
 
 
 
