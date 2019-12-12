@@ -226,6 +226,8 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 	- || OR
 	- && AND
 - Arrays
+- ndigit
+- Long sequenced decisions 
 
 
 
