@@ -172,8 +172,10 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 - Finished problem set 2.1_2
 
 #### [ 0 minute sprint - 12/1/19 ]
+- None
 
 #### [ 0 minute sprint - 12/2/19 ]
+- None
 
 #### [ 90 minute sprint Dartmouth Edx- 12/3/19 ]
 - Read Documentation
@@ -202,7 +204,18 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 - Read Rirchie Kernighan C Documentation 
 - File copying, increment operator, Getchar, Zero-Length input, Boundary Conditions, Line counting, Character constant, single constants, string constant, 
 - Wrote 3 programs that counted blanks, tabs, and newlines
--
+
+#### [ 60 minute sprint - 12/10/19 ]
+- Read Rirchie Kernighan C Documentation 
+
+#### [ 60 minute sprint - 12/11/19 ]
+- Researched beginner open source contributor projects for C programming via GitHub
+- [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
+	- Vim-fork focused on extensibility and agility.
+
+
+
+
 
 Resources:
 	-[1 - documentation](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1124.pdf) 
