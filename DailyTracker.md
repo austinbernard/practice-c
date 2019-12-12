@@ -221,10 +221,11 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 - IN / OUT define
 
 #### [ 40 minute sprint - 12/12/19 ]
-- || OR
-- && AND
 - Assignment is an expression with a value (from from right to left)
-- 
+- If Else / If expression is true, statement(1) is executed. If not, statement(2) is executed
+	- || OR
+	- && AND
+- Arrays
 
 
 
