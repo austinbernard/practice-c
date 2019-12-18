@@ -2,15 +2,10 @@
 
 /* this program will read a set of text lines and print the longest */
 
-/*     if (the line is longer than the previous longest)
-           save it
-           save the length
-   print longest line */
-
 #define MAXLINE 1000 /* max inut line size */
 
 int getline (char line[], int maxline);
-coid copy(char to[], char from[]);
+void copy(char to[], char from[]);
 
 /* print longest input line */
 /* One piece gets a new line, another tests it, another saves it, and the rest controls the process */

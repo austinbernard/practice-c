@@ -250,7 +250,11 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 
 #### [ 80 minute sprint - 12/17/19 ]
 - Control getline and copy
-- 
+- s[] signifies array
+- Learn to set aside storage by declaring size of array early
+- '\0' mark the end of a string of characters
+- h e l l o \n \0
+
 
 
 
