@@ -242,11 +242,15 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 #### [ 0 minute sprint - 12/15/19 ]
 - None
 
-#### [  minute sprint - 12/16/19 ]
+#### [ 30 minute sprint - 12/16/19 ]
 - Functions
+
+#### [ 30 minute sprint - 12/16/19 ]
+- Read Documentation
+
+#### [ 80 minute sprint - 12/17/19 ]
+- Control getline and copy
 - 
-
-
 
 
 
