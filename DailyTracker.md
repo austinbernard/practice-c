@@ -229,13 +229,30 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 - ndigit
 - Long sequenced decisions 
 
+#### [ 120 minute sprint - 12/13/19 ]
+- Talked to resource about job oportunities and information about my current skillset
+- We discussed his passion for C++ and C#
+- Playstation internship opportunities
+- The power of using C to gain control of power when writing software
+- Data Structures
+
+#### [ 45 minute sprint - 12/14/19 ]
+- Functions
+
+#### [ 0 minute sprint - 12/15/19 ]
+- None
+
+#### [  minute sprint - 12/16/19 ]
+- Functions
+- 
+
 
 
 
 
 Resources:
-	-[1 - documentation](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1124.pdf) 
-	-[2 - Documentation](https://public.support.unisys.com/framework/publicterms.aspx?returnurl=%2faseries%2fdocs%2fClearPath-MCP-17.0%2fPDF%2f86002278-305.pdf)
+	-[1 - C Documentation](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1124.pdf) 
+	-[2 - C Documentation 2](https://public.support.unisys.com/framework/publicterms.aspx?returnurl=%2faseries%2fdocs%2fClearPath-MCP-17.0%2fPDF%2f86002278-305.pdf)
 
 
 
