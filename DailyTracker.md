@@ -257,7 +257,7 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 
 #### [ 60 minute sprint Dartmouth Edx - 12/22/19 ]
 - Warm Up with Dartmouth Course C.02
-- Combine Logical Operators
+- Combine Logical Operators - OR (||) AND (&&)
 - Truth Table for Logical Operators
 
 #### [ 50 minute sprint Read Documentation - 12/22/19 ]
