@@ -255,6 +255,13 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 - '\0' mark the end of a string of characters
 - h e l l o \n \0
 
+#### [ 60 minute sprint Dartmouth Edx - 12/22/19 ]
+- Warm Up with Dartmouth Course C.02
+- Combine Logical Operators
+- Truth Table for Logical Operators
+
+#### [ 50 minute sprint Read Documentation - 12/22/19 ]
+
 
 
 
