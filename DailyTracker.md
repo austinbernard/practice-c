@@ -261,6 +261,12 @@ Technologies Used: Git | GitHub | VsCode | Pen & Paper
 - Truth Table for Logical Operators
 
 #### [ 50 minute sprint Read Documentation - 12/22/19 ]
+- getline
+- char line []
+- Finding max length of line
+- Ex. 1-17 Printing line length > 80 char
+- fgets - specify storage in variable
+- resource: [youtube](https://www.youtube.com/watch?v=Lksi1HEMZgY)
 
 
 
